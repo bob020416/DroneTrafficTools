@@ -42,21 +42,20 @@ drone-tool/
 
 ---
 
+
+
 ## ⚙️ Installation
 
-### Core Dependencies
+Please follow the official **[ScenarioNet](https://github.com/metadriverse/scenarionet)** and **[MetaDrive](https://github.com/metadriverse/metadrive)** setup guides to install the required environment.
+Once their environments are properly configured, install the core dependencies:
 
 ```bash
 pip install numpy pandas scipy shapely lxml utm tqdm matplotlib omegaconf
 ```
 
-### ScenarioNet / MetaDrive
-
-```bash
-pip install metadrive-simulator scenarionet
-```
-
 ---
+
+
 
 ## 🚀 Usage
 
