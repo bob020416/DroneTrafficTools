@@ -96,11 +96,6 @@ python scenarionet-converter/sind_scene.py \
   --output_dir /path/to/output
 ```
 
-**Required Files:**
-
-* `recording_metas.csv`
-* `Veh_smoothed_tracks.csv` / `Ped_smoothed_tracks.csv`
-* `map.osm`
 
 ---
 
@@ -136,7 +131,3 @@ python scenarionet-scenariodreamer-converter/scenarionet_to_scenariodreamer_waym
 ## 📚 Citation
 
 If you use this toolkit, please cite the corresponding datasets and their maintainers.
-
----
-
-Would you like me to make it even more **minimal and aesthetic** (e.g., with emojis for sections, centered title, badges, etc.) for a more polished GitHub look?
