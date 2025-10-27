@@ -1,4 +1,4 @@
-This repository provides tools for converting **drone-view traffic datasets** into formats suitable for **autonomous driving simulation** and **motion prediction**.
+This repository provides tools for converting **drone-view traffic datasets** into formats suitable for **autonomous driving simulation**, **motion prediction** and **motion planning**.
 It supports multiple datasets and output formats, handling trajectory data, map features, and agent metadata seamlessly.
 
 ---
